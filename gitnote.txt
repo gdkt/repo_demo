@@ -17,3 +17,5 @@ git checkout cxlgb1
 git diff <source_branch> <traget_branch>
 git merge <branch>
 git status
+
+git pull repo_demo master
