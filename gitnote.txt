@@ -1,5 +1,5 @@
-cxlg/sunny200
-13902267261@139.com
+cxlg/
+
 
 
 ssh -T git@github.com
@@ -18,4 +18,5 @@ git diff <source_branch> <traget_branch>
 git merge <branch>
 git status
 
+--get files from repo_demo repository's master branch
 git pull repo_demo master
